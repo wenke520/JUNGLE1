@@ -57,7 +57,7 @@
                         	时间：2018-10-30
                         	描述：搜索操作入口，需要修改
                         -->
-						<span title="搜索" id="global_search_btns" onclick="$(&#39;#global_search_form&#3).submit();"><i class="glyphicon glyphicon-search"></i></span>
+						<span title="搜索" id="global_search_btns" onclick="$(&#39;#global_search_form&#39;).submit();"><i class="glyphicon glyphicon-search"></i></span>
 						<div class="aw-dropdown">
 							<div class="mod-body">
 								<p class="title">输入关键字进行搜索</p>
